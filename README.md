@@ -1,2 +1,1 @@
-# First_Project
-接触GITHUB
+为接触学习Github而创立
